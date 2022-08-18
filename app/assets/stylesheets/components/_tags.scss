@@ -1,0 +1,16 @@
+.card-tags {
+  justify-content: space-between;
+  flex-direction: column;
+
+
+  span {
+    background: $blue;
+    font-size: .7em;
+    padding: 2px 4px;
+    border-radius: 3px;
+  }
+
+  a {
+    color: white;
+  }
+}

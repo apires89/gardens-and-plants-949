@@ -1,4 +1,6 @@
 .card-category {
+    justify-content: space-between;
+      flex-direction: column;
   background-size: cover;
   background-position: center;
   height: 180px;
@@ -17,4 +19,10 @@
       background: transparent;
         border: none;
         color: white;
+}
+
+.add-tag-button {
+  text-decoration: none;
+  color: white;
+  font-size: 30px;
 }
